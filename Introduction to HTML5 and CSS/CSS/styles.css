@@ -1,0 +1,45 @@
+body{
+    width: 60%;
+}
+
+header{
+    padding: 20px;
+    text-align: center;
+    margin-left: 60%;
+}
+
+header img {
+    display: block;
+    width: 90%;
+    margin: auto;
+}
+
+main{
+    padding: 20px;
+    margin: 20px auto;
+    width: 150%;
+    text-align: left;
+}
+
+main img { 
+    display: block;
+    margin: auto;
+    width: 35%;
+}
+
+nav {
+    padding: 20px;
+    width: 150%;
+    margin: 20px auto;
+    font-size: 25px;
+    background-color: yellow;
+    text-align: left;
+
+}
+
+footer {
+    text-align: center;
+    padding: 40px 0;
+
+}
+
