@@ -1,6 +1,5 @@
 body{
     width: 60%;
-    background-color: black;
 }
 
 header{
@@ -11,7 +10,7 @@ header{
 
 header img {
     display: block;
-    width: 90%;
+    width: 120%;
     margin: auto;
 }
 
@@ -32,9 +31,9 @@ nav {
     padding: 20px;
     width: 150%;
     margin: 20px auto;
-    font-size: 25px;
+    font-size: 20px;
     background-color: gray;
-    text-align: left;
+    text-align: center;
 
 }
 
@@ -43,4 +42,3 @@ footer {
     padding: 40px 0;
 
 }
-
